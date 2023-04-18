@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/NativeIOSFramework-Swift.h</key>
 		<data>
-		KpwwpjcajMEDWh5Ho54xo+c5Wf0=
+		H3+kubTycW9/V4/mx1HK2/AFauI=
 		</data>
 		<key>Headers/NativeIOSFramework.h</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mBCa6OLzPlji7L2195qZZolX+0A=
+		BsmgeQQnu4Sx0eifLoZi4P08xLc=
 		</data>
 		<key>Modules/NativeIOSFramework.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		ny0jmcn1oG1c19UdsitjshT8MyU=
+		1s5IHVv+oWes3tF0W/MmDQRjCjk=
 		</data>
 		<key>Modules/NativeIOSFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/NativeIOSFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		f2jJb1Yux6Oefbm4qBTgW1DyIrk=
+		nyEniT79tepP0VCy4l8EdlwowdI=
 		</data>
 		<key>Modules/NativeIOSFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		NBro4Qcgd1vg1FW+5raa09/buMk=
+		l57oWpFdBhon63XIl68bpow9iDI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,7 +43,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IQCN0p5Pt4iH2JDGCG89eV345KGkWyGwvrxHx65CYYU=
+			lJPh4IUGGz+ocFZodYeJ8Mo33UjYuGpFm6v/JcmymJ0=
 			</data>
 		</dict>
 		<key>Headers/NativeIOSFramework.h</key>
@@ -57,7 +57,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MHBlMy7fuE50Vu9Gmcuu5FPUOtHn922SJw45lZaWssQ=
+			WTWHiAb/IiPUbNt0VSWslJuKNe67jtbTmeRePSwK6Og=
 			</data>
 		</dict>
 		<key>Modules/NativeIOSFramework.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -71,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5JMVakoUtwAFE2WE1+lKr1m0eF2pCEsGAoI9Ou0c56I=
+			bD3ebgikqpincj+jaSVqGyN/d1sNA/kogTtKnZUQd7c=
 			</data>
 		</dict>
 		<key>Modules/NativeIOSFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			huFR1PH06Mhrzv1OqbN4cuB8d2fEwkbJoWIjPmIXNAs=
+			pI2zkVO+jsPSRVP2OCFsb1qA++VWDonVJEMJSw5rUpk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -281,7 +281,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 
-SWIFT_EXTERN void printFromNativeCode(void);
+SWIFT_EXTERN int32_t printFromNativeCode(void) SWIFT_WARN_UNUSED_RESULT;
 
 #endif
 #if defined(__cplusplus)
